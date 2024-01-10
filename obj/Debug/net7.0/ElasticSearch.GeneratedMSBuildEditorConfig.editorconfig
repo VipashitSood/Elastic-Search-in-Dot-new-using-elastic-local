@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ElasticSearch
+build_property.RootNamespace = ElasticSearch
+build_property.ProjectDir = D:\aaaaaaaaaaa\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\aaaaaaaaaaa
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/aaaaaaaaaaa/ElasticSearch/Views/Article/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RWxhc3RpY1NlYXJjaFxWaWV3c1xBcnRpY2xlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/ElasticSearch/Views/Article/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RWxhc3RpY1NlYXJjaFxWaWV3c1xBcnRpY2xlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/ElasticSearch/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RWxhc3RpY1NlYXJjaFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/ElasticSearch/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RWxhc3RpY1NlYXJjaFxWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/ElasticSearch/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RWxhc3RpY1NlYXJjaFxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/ElasticSearch/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RWxhc3RpY1NlYXJjaFxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/ElasticSearch/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RWxhc3RpY1NlYXJjaFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/ElasticSearch/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RWxhc3RpY1NlYXJjaFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/Views/Article/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/Views/Article/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/aaaaaaaaaaa/ElasticSearch/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RWxhc3RpY1NlYXJjaFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-5daxr01n89
+
+[D:/aaaaaaaaaaa/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-halapvz0oj
